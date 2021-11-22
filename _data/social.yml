@@ -1,9 +1,9 @@
 - title: Email
   url: 7636290@naver.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+# - title: Twitter
+#   url: https://twitter.com/vszhub
+#   icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/jenney9306
   icon: fab fa-github
